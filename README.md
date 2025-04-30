@@ -6,5 +6,5 @@ layout: page
 
 ## Resume
 
-![Resume](../assets/Spencer_Gosden_Resume.pdf)
+![Resume](../assets/Spencer_Gosden_Resume.png)
 
