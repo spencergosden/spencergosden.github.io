@@ -6,5 +6,5 @@ layout: page
 
 ## Resume
 
-![Resume](/assets/Spencer_Gosden_Resume.jpg)
+<embed src="assets/Resume.pdf" type="application/pdf" width="100%" height="600px" />
 
